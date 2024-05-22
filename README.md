@@ -1,1 +1,1 @@
-# gin_crud_demo
+# go_crud_demo
